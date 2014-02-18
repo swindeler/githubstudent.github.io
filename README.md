@@ -5,6 +5,7 @@
 Jordan McCullough
 
 ## Objectives & Content
-* GitHub Web Flow
-* GitHub Collaboration
+* Web Flow
+* Collaboration
 * Git on Command Line
+* GitHub Issues for Features & Bugs
