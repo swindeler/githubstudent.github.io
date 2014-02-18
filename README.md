@@ -1,8 +1,6 @@
 # Student Web Site
+## February 17, 2014
 
-## Authorship
-
-Jordan McCullough
 
 ## Objectives & Content
 * Web Flow
