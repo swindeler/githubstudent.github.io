@@ -1,4 +1,10 @@
-githubstudent.github.io
-=======================
+# Student Web Site
 
-My very own web site!
+## Authorship
+
+Jordan McCullough
+
+## Objectives & Content
+* GitHub Web Flow
+* GitHub Collaboration
+* Git on Command Line
